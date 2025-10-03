@@ -9,7 +9,8 @@ document.addEventListener('click', (event) => {
         "Mi princesa 👑",
         "Siempre Seras especial para mi✨",
         "Mi corazon es tuyo 😘",
-        "Siempre te voy a Amar 💓"
+        "Siempre te voy a Amar 💓",
+        "Seras mi Esposa si o si"
         
     ];
 
